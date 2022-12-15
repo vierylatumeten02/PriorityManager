@@ -1,6 +1,5 @@
-# Viery Gabriel Latumeten | D121201011
-Priority Manager\n
-credit to: https://www.youtube.com/@codinginflow & devtwofaces
+# Priority Manager
+Viery Gabriel Latumeten | D121201011 | Credit to: https://www.youtube.com/@codinginflow & devtwofaces
 
 # APK
 https://drive.google.com/file/d/1ny-kE1_omp_DMMw-m3XsM3cz9WLORXEx/view?usp=sharing
