@@ -1,9 +1,7 @@
 # Viery Gabriel Latumeten | D121201011
-Priority Manager
+Priority Manager\n
 credit to: https://www.youtube.com/@codinginflow & devtwofaces
 
 
-#Preview
-![Home](https://user-images.githubusercontent.com/112059210/207759178-918852ff-030a-4743-aca8-0037426031ea.jpg)
-![Tambah Kegiatan](https://user-images.githubusercontent.com/112059210/207759173-e49a55a8-4ba6-482c-9c78-f8d36b9a510e.jpg)
-![Edit Kegiatan](https://user-images.githubusercontent.com/112059210/207759167-d712a9bc-71bc-4c76-b73e-22e4534e60fc.jpg)
+# PreView
+![Preview](https://user-images.githubusercontent.com/112059210/207760484-7f9c84eb-fa93-45a9-8bc9-ba4dfe9f9d94.png)
